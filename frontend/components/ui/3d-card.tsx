@@ -9,9 +9,11 @@ export function CardBody({ children, className = '' }: { children: ReactNode; cl
   return <div className={`relative transform transition-transform duration-500 group-hover:rotate-y-2 group-hover:scale-105 ${className}`}>{children}</div>;
 }
 
-export function CardItem({ children, className = '', ...props }: any) {
+export function CardItem({ children, className = '', translateZ, ...props }: any) {
+  const style = translateZ ? { transform: `translateZ(${translateZ})` } : undefined;
+
   return (
-    <div className={`transition-transform ${className}`} {...props}>
+    <div className={`transition-transform ${className}`} style={style} {...props}>
       {children}
     </div>
   );
