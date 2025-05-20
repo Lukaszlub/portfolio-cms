@@ -1928,9 +1928,9 @@ longest-streak@^3.0.0:
   resolved "https://registry.yarnpkg.com/longest-streak/-/longest-streak-3.1.0.tgz#62fa67cd958742a1574af9f39866364102d90cd4"
   integrity sha512-9Ri+o0JYgehTaVBBDoMqIl8GXtbWg711O3srftcHhZ0dqnETqLaoIK0x17fUw9rFSlK/0NlsKe0Ahhyl5pXE2g==
 
-"magic-portfolio-for-next-js@git+https://github.com/Lukaszlub/magic-portfolio-for-next-js.git":
+"magic-portfolio-for-next-js@git+https://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@github.com/Lukaszlub/magic-portfolio-for-next-js.git":
   version "2.0.0"
-  resolved "git+https://github.com/Lukaszlub/magic-portfolio-for-next-js.git#fa77587156485d200a8cfea5316edd876edf671c"
+  resolved "git+https://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@github.com/Lukaszlub/magic-portfolio-for-next-js.git#fa77587156485d200a8cfea5316edd876edf671c"
   dependencies:
     "@floating-ui/react-dom" "^2.1.2"
     "@mdx-js/loader" "^3.1.0"
