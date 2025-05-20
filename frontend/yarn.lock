@@ -671,30 +671,6 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@once-ui-system/magic-portfolio@https://github.com/Lukaszlub/magic-portfolio-for-next-js.git":
-  version "2.0.0"
-  resolved "https://github.com/Lukaszlub/magic-portfolio-for-next-js.git#fa77587156485d200a8cfea5316edd876edf671c"
-  dependencies:
-    "@floating-ui/react-dom" "^2.1.2"
-    "@mdx-js/loader" "^3.1.0"
-    "@next/mdx" "^15.3.1"
-    classnames "^2.5.1"
-    cookie "^1.0.2"
-    gray-matter "^4.0.3"
-    next "^15.3.1"
-    next-mdx-remote "^5.0.0"
-    postcss "^8.5.3"
-    postcss-preset-env "^9.6.0"
-    prismjs "^1.30.0"
-    react "19.0.0"
-    react-dom "19.0.0"
-    react-icons "^5.5.0"
-    react-masonry-css "^1.0.16"
-    remark "^15.0.1"
-    remark-html "^16.0.1"
-    sass "^1.86.3"
-    sharp "^0.34.1"
-
 "@parcel/watcher-android-arm64@2.5.1":
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/@parcel/watcher-android-arm64/-/watcher-android-arm64-2.5.1.tgz#507f836d7e2042f798c7d07ad19c3546f9848ac1"
@@ -1951,6 +1927,30 @@ longest-streak@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/longest-streak/-/longest-streak-3.1.0.tgz#62fa67cd958742a1574af9f39866364102d90cd4"
   integrity sha512-9Ri+o0JYgehTaVBBDoMqIl8GXtbWg711O3srftcHhZ0dqnETqLaoIK0x17fUw9rFSlK/0NlsKe0Ahhyl5pXE2g==
+
+"magic-portfolio-for-next-js@https://github.com/Lukaszlub/magic-portfolio-for-next-js.git":
+  version "2.0.0"
+  resolved "https://github.com/Lukaszlub/magic-portfolio-for-next-js.git#fa77587156485d200a8cfea5316edd876edf671c"
+  dependencies:
+    "@floating-ui/react-dom" "^2.1.2"
+    "@mdx-js/loader" "^3.1.0"
+    "@next/mdx" "^15.3.1"
+    classnames "^2.5.1"
+    cookie "^1.0.2"
+    gray-matter "^4.0.3"
+    next "^15.3.1"
+    next-mdx-remote "^5.0.0"
+    postcss "^8.5.3"
+    postcss-preset-env "^9.6.0"
+    prismjs "^1.30.0"
+    react "19.0.0"
+    react-dom "19.0.0"
+    react-icons "^5.5.0"
+    react-masonry-css "^1.0.16"
+    remark "^15.0.1"
+    remark-html "^16.0.1"
+    sass "^1.86.3"
+    sharp "^0.34.1"
 
 magic-string@^0.30.17:
   version "0.30.17"
