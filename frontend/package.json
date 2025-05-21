@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "magic-portfolio-for-next-js": "git+https://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@github.com/Lukaszlub/magic-portfolio-for-next-js.git",
+    "magic-portfolio-for-next-js": "file:lib/magic-portfolio-for-next-js",
     "framer-motion": "^12.12.1",
     "next": "15.3.2",
   "react": "19.0.0",
