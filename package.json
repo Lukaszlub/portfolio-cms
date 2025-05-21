@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@vercel/speed-insights": "^1.2.0",
     "styled-jsx": "^5.1.7"
   }
 }
